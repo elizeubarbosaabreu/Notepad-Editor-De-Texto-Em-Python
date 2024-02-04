@@ -38,6 +38,6 @@ pyinstaller app.py
 ~~~
 - Perceba que dentro da pasta/diretório do projeto foram criados duas pastas/diretórios: *buid e dist*
 ![terminal](/images/terminal.png)
-- Dentro da pasta/diretório está o arquivo **app** ou **app.exe** que é o nosso executável portátil. Dá para criar um atalho para o executável ou copiar elea pasta dist para um outro diretório, pendrive, etc... 
+- Dentro da pasta/diretório está o arquivo **app** ou **app.exe** que é o nosso executável portátil. Dá para criar um atalho para este executável. Caso queira algo portátil, pode copiar a pasta dist para um disposivo de armazenamento como um pendrive, por exemplo... 
 
 ## Obrigado por aprender junto comigo!
